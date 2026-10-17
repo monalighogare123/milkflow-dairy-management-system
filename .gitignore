@@ -8,9 +8,10 @@ __pycache__/
 venv/
 env/
 
-# Environment variables
+# Environment variables and secrets
 .env
 .env.*
+!.env.example
 
 # IDE
 .vscode/
